@@ -29,6 +29,9 @@ Ctrl + Shift + /
 Go to bracket:
 Ctrl + \
 
+Go to bracket with selection:
+Ctrl + Shift + \
+
 Transform to snake_case:
 Ctrl+Alt+8
 
@@ -47,7 +50,12 @@ Ctrl + Shift + [
 Unfold All:
 Ctrl + Shift + ]
 
+Format selection/document:
+Ctrl + K Ctrl + D
+
 ## - - - - - - - - - - - - - - - - - - - - - - - - - File Explorer - - - - - - - - - - - - - - - - - - - - - - - - -
+Toggle Primary Side Bar Visibility 
+CTRL + E:
 
 Rename file (file explorer):
 F2
@@ -58,6 +66,9 @@ Alt + C
 Reveal In Explorer:
 Alt + S
 
+Create a file
+Alt + A
+
 
 ## - - - - - - - - - - - - - - - - - - - - - - - - - Misc - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -66,9 +77,6 @@ CTRL + P
 
 Show All Commands: 
 CTRL + Shift + P
-
-CTRL + B:
-Toggle File Explorer
 
 Find and replace (file): 
 Ctrl + H

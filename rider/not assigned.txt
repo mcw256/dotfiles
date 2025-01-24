@@ -1,0 +1,48 @@
+            # Here is list of keymaps I couldn't assign in Rider, because they are not available there.
+
+## - - - - - - - - - - - - - - - - - - - - - - - - - Editor - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+Transform to snake_case:
+Ctrl+Alt+8
+
+Tranform to camelCase:
+Ctrl+Alt+9
+
+Transform to PascalCase:
+Ctrl+Alt+0
+
+
+## - - - - - - - - - - - - - - - - - - - - - - - - - File Explorer - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Create New File: (New In This Directory added instead)
+Alt + A
+
+## - - - - - - - - - - - - - - - - - - - - - - - - - Misc - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Go to symbol in editor:
+Ctrl + P (and type @)
+
+Go to symbol in workspace:
+Ctrl + P (and type #)
+
+Go to next problem in files:
+Ctrl + Shift + '
+
+Go to previous problem in files:
+Ctrl + Shift + ;
+
+
+## - - - - - - - - - - - - - - - - - - - - - - - - - Tabs - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+## - - - - - - - - - - - - - - - - - - - - - - - - - Debugging - - - - - - - - - - - - - - - - - - - - - - - - -
+
+// TBD 
+debugging
+put breakpoint
+next breakpoint
+step into
+step outo
+mute breakpoints
+delete all breakpoints
