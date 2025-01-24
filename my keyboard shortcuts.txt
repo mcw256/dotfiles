@@ -1,0 +1,129 @@
+            # My keyboard shortcuts (based on vscode)
+
+## - - - - - - - - - - - - - - - - - - - - - - - - - Editor - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Copy line down: 
+CTRL + D 
+
+Cursor column select down:
+Shift + Alt + DownArrow
+
+Cursor column select up:
+Shift + Alt + UpArrow
+
+Cursor column selection:
+Shift + Alt + LMB
+
+Rename symbol (editor):
+Ctrl + R
+
+Quick actions and refactorings:
+Ctrl + .
+
+Toggle Line Comment:
+Ctrl + /
+
+Toggle Block Comment:
+Ctrl + Shift + /
+
+Go to bracket:
+Ctrl + \
+
+Transform to snake_case:
+Ctrl+Alt+8
+
+Tranform to camelCase:
+Ctrl+Alt+9
+
+Transform to PascalCase:
+Ctrl+Alt+0
+
+Toggle Fold: 
+Ctrl + [
+
+Fold All:
+Ctrl + Shift + [
+
+Unfold All:
+Ctrl + Shift + ]
+
+## - - - - - - - - - - - - - - - - - - - - - - - - - File Explorer - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Rename file (file explorer):
+F2
+
+Collapse In Explorer:
+Alt + C
+
+Reveal In Explorer:
+Alt + S
+
+
+## - - - - - - - - - - - - - - - - - - - - - - - - - Misc - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Go to file:
+CTRL + P 
+
+Show All Commands: 
+CTRL + Shift + P
+
+CTRL + B:
+Toggle File Explorer
+
+Find and replace (file): 
+Ctrl + H
+
+Find and replace (all):
+Ctrl + Shift + H
+
+Settings:
+Ctrl + ,
+
+Open terminal:
+Ctrl + ~
+
+Create new terminal:
+Alt + ~
+
+Go to symbol in editor:
+Ctrl + P (and type @)
+
+Go to symbol in workspace:
+Ctrl + P (and type #)
+
+Go to next problem:
+Ctrl + '
+
+Go to next problem in files:
+Ctrl + Shift + '
+
+Go to previous problem:
+Ctrl + ;
+
+Go to previous problem in files:
+Ctrl + Shift + ;
+
+
+
+## - - - - - - - - - - - - - - - - - - - - - - - - - Tabs - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Close Others: 
+Ctrl + Alt + W
+
+View Open Next Edtior:
+Ctrl + Tab
+
+View Open Previous Editor: 
+Ctrl + Shift + Tab
+
+
+## - - - - - - - - - - - - - - - - - - - - - - - - - Debugging - - - - - - - - - - - - - - - - - - - - - - - - -
+
+// TBD 
+debugging
+put breakpoint
+next breakpoint
+step into
+step outo
+mute breakpoints
+delete all breakpoints
