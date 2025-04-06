@@ -3,12 +3,7 @@
 
 [alias]
 	ls = log --oneline
-	
-[alias]
 	go = !git fetch && git checkout
-
-[alias]
 	st = status
-
-[alias]
 	res = "!f() { git reset HEAD~$1; }; f"
+	p = pull
