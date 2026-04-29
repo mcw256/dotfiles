@@ -6,4 +6,4 @@
 	go = !git fetch && git checkout
 	st = status
 	res = "!f() { git reset HEAD~$1; }; f"
-	p = pull
+	sciernisko = !git reset --hard && git clean -fd
